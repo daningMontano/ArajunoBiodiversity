@@ -1,0 +1,12 @@
+Para que las instituciones y personas que proveen datos reciban crédito por su contribución intelectual, es importante que se cite adecuadamente esta base de datos. Puede hacerlo incluyendo en su trabajo la cita recomendada por BIOWEB
+
+Plantas:
+Romoleroux, K., Pérez, A., León-Yánez, S., Quintana, C., Navarrete, H., Muriel, P. , Cevallos, D. 2018. Base de datos del Herbario QCA. Versión 1.0. Pontificia Universidad Católica del Ecuador. Disponible en <https://bioweb.bio/portal/> Consulta: (Lunes, 17 de Noviembre de 2025).
+Anfibios:
+Ron, S. R. 2018. Base de datos de la colección de anfibios del Museo de Zoología QCAZ. Versión 1.0. Pontificia Universidad Católica del Ecuador. Disponible en <https://bioweb.bio/portal/> Consulta: (Lunes, 17 de Noviembre de 2025).
+Mamíferos:
+Burneo, S. 2018. Base de datos de la colección de mamíferos del Museo de Zoología QCAZ. Versión 1.0. Pontificia Universidad Católica del Ecuador. Disponible en <https://bioweb.bio/portal/> Consulta: (Lunes, 17 de Noviembre de 2025).
+Reptiles:
+Torres-Carvajal, O. 2018. Base de datos de la colección de reptiles del Museo de Zoología QCAZ. Versión 1.0. Pontificia Universidad Católica del Ecuador. Disponible en <https://bioweb.bio/portal/> Consulta: (Lunes, 17 de Noviembre de 2025).
+Invertebrados:
+Barragán, A. Crespo, V., Checa, F. 2018. Base de datos de la colección de reptiles del Museo de Zoología QCAZ. Versión 1.0. Pontificia Universidad Católica del Ecuador. Disponible en <https://bioweb.bio/portal/> Consulta: (Lunes, 17 de Noviembre de 2025).
