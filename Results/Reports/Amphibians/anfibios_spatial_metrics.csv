@@ -1,0 +1,15 @@
+"metric_name","metric_description_en","metric_value"
+"total_area_ha","Total area of the region in hectares.",885196.323068858
+"area_with_records_pct","Percentage of area with at least one record.",15.705651828434
+"area_with_records_ha","Area (ha) with at least one record.",139025.852499295
+"area_without_records_pct","Percentage of area without records.",84.294348171566
+"hexes_majority_records_count","Number of hexagons holding most records.",13
+"hexes_majority_records_area_pct","Percentage of total area occupied by those hexagons.",2.65986599437253
+"mean_species_per_hex","Mean number of species per hexagon.",8.82608695652174
+"median_species_per_hex","Median number of species per hexagon.",3
+"outlier_hexes_species_count","Number of hexagon richness outliers.",9
+"outlier_hexes_species_area_pct","Percentage of total area that these outliers represent.",1.81192328793754
+"records_species_correlation_pearson","Pearson correlation between records and species.",0.950478274001916
+"area_coverage_ge_0.5_pct","Percentage of area with sampling coverage >= 0.5.",5.59918180363451
+"area_coverage_ge_0.9_pct","Percentage of area with sampling coverage >= 0.9.",2.79117517821359
+"records_gini_coefficient","Gini coefficient for record spatial inequality.",0.7672963004359

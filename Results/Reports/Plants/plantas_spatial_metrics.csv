@@ -1,0 +1,15 @@
+"","metric_name","metric_description_en","metric_value"
+"1","total_area_ha","Total area of the region in hectares.",885196.323068858
+"2","area_with_records_pct","Percentage of area with at least one record.",27.7375034123223
+"3","area_with_records_ha","Area (ha) with at least one record.",245531.360316976
+"4","area_without_records_pct","Percentage of area without records.",72.2624965876777
+"5","hexes_majority_records_count","Number of hexagons holding most records.",17
+"6","hexes_majority_records_area_pct","Percentage of total area occupied by those hexagons.",3.79115045305519
+"7","mean_species_per_hex","Mean number of species per hexagon.",29.3779527559055
+"8","median_species_per_hex","Median number of species per hexagon.",5
+"9","outlier_hexes_species_count","Number of hexagon richness outliers.",22
+"10","outlier_hexes_species_area_pct","Percentage of total area that these outliers represent.",4.82990624100958
+"11","records_species_correlation_pearson","Pearson correlation between records and species.",0.980418926960178
+"12","area_coverage_ge_0.5_pct","Percentage of area with sampling coverage >= 0.5.",10.4857795328622
+"13","area_coverage_ge_0.9_pct","Percentage of area with sampling coverage >= 0.9.",4.48585073933282
+"14","records_gini_coefficient","Gini coefficient for record spatial inequality.",0.835774461758714

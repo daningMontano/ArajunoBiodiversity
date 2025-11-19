@@ -1,15 +1,15 @@
 "","metric_name","metric_description_en","metric_value"
-"1","total_area_ha","Total area of the study region in hectares.",885196.323068858
-"2","area_with_records_pct","Percentage of total area where at least one record is present.",26.2266223506852
-"3","area_with_records_ha","Total area (ha) where at least one record is present.",232157.096713421
-"4","area_without_records_pct","Percentage of total area with zero records.",73.7733776493148
-"5","hexes_majority_records_count","Number of hexagons that hold the majority of records (cumulative proportion defined by majority_prop).",17
-"6","hexes_majority_records_area_pct","Percentage of total area occupied by hexagons that hold the majority of records.",3.44570369918784
+"1","total_area_ha","Total area of the region in hectares.",885196.323068858
+"2","area_with_records_pct","Percentage of area with at least one record.",26.2266223506852
+"3","area_with_records_ha","Area (ha) with at least one record.",232157.096713421
+"4","area_without_records_pct","Percentage of area without records.",73.7733776493148
+"5","hexes_majority_records_count","Number of hexagons holding most records.",17
+"6","hexes_majority_records_area_pct","Percentage of total area occupied by those hexagons.",3.44570369918784
 "7","mean_species_per_hex","Mean number of species per hexagon.",20.7480916030534
 "8","median_species_per_hex","Median number of species per hexagon.",3
-"9","outlier_hexes_species_count","Number of hexagons considered outliers in species richness (based on the IQR rule).",19
-"10","outlier_hexes_species_area_pct","Percentage of total area covered by hexagons that are outliers in species richness.",3.90253005967787
-"11","records_species_correlation_pearson","Pearson correlation between number of records and number of species per hexagon.",0.8582564988148
-"12","area_coverage_ge_0.5_pct","Percentage of total area with sampling coverage ≥ 0.5.",8.20191429391538
-"13","area_coverage_ge_0.9_pct","Percentage of total area with sampling coverage ≥ 0.9.",2.69731913510666
-"14","records_gini_coefficient","Gini coefficient of the spatial distribution of records across hexagons (0 = even, 1 = highly concentrated).",0.847578727790119
+"9","outlier_hexes_species_count","Number of hexagon richness outliers.",19
+"10","outlier_hexes_species_area_pct","Percentage of total area that these outliers represent.",3.90253005967787
+"11","records_species_correlation_pearson","Pearson correlation between records and species.",0.8582564988148
+"12","area_coverage_ge_0.5_pct","Percentage of area with sampling coverage >= 0.5.",8.20191429391538
+"13","area_coverage_ge_0.9_pct","Percentage of area with sampling coverage >= 0.9.",2.69731913510666
+"14","records_gini_coefficient","Gini coefficient for record spatial inequality.",0.847578727790119
